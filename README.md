@@ -8,7 +8,7 @@
 -  I’m currently learning: Advanced JavaScript, databases, and software architecture
 -  I have experience with: Java, Python, C#, HTML, CSS
 -  Ask me about: Anything related to full-stack web development
--  How to reach me: sphesihlekayise320@gmail.com or [your LinkedIn link]
+-  How to reach me: sphesihlekayise320@gmail.com or www.linkedin.com/in/sihle-kayise-12b1622b4
 -  Fun fact: I love learning new programming languages and solving real-world problems with code!
 
 Tech Stack
@@ -34,7 +34,7 @@ GitHub Stats
 
  Connect with Me
 
-[![LinkedIn](sihle-kayise-12b1622b4)
-[![Email](sphesihlekayise320@gmaiol.com)
+[![LinkedIn](www.linkedin.com/in/sihle-kayise-12b1622b4)
+[![Email](sphesihlekayise320@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
