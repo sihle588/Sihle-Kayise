@@ -1,4 +1,4 @@
- Hi there, I'm [Your Name]
+ Hi there, I'm Sihle Kayise
 
  I'm a Software Engineering student who enjoy building both **front-end** and **back-end** applications.
 
@@ -8,7 +8,7 @@
 -  I’m currently learning: Advanced JavaScript, databases, and software architecture
 -  I have experience with: Java, Python, C#, HTML, CSS
 -  Ask me about: Anything related to full-stack web development
--  How to reach me: [your-email@example.com] or [your LinkedIn link]
+-  How to reach me: sphesihlekayise320@gmail.com or [your LinkedIn link]
 -  Fun fact: I love learning new programming languages and solving real-world problems with code!
 
 Tech Stack
@@ -17,7 +17,7 @@ Languages:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://github.com/sihle588/DotNet-Experiments/blob/main/BankAccountSimulator.zip
-)(
+)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
@@ -34,7 +34,7 @@ GitHub Stats
 
  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](sihle-kayise-12b1622b4)
+[![Email](sphesihlekayise320@gmaiol.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
